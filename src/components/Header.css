@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+    background-color: #c6e7e59d;
+    color: #1d1c02;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    border-radius: 50%;
+    
+  }
+  
